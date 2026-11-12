@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ndflores190.github.io/bilingualbuddies/sitemap.xml
