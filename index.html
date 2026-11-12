@@ -212,5 +212,10 @@
 <footer>
   <p>&copy; Bilingual Buddies Press. Printable PDFs are for personal use only.</p>
 </footer>
-</body>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+</script>
+  </body>
 </html>
