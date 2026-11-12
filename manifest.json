@@ -1,0 +1,16 @@
+{
+  "name": "Bilingual Buddies",
+  "short_name": "Bilingual Buddies",
+  "description": "Bilingual English-Spanish printable activity packs and storybooks for kids ages 3-7.",
+  "start_url": "https://ndflores190.github.io/bilingualbuddies/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#12b1ac",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
